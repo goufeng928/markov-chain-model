@@ -16,7 +16,7 @@
 
 * 原理图 (Schematic Diagram) :
 
-![alt Markov Weather Forecast Model](./Image/Markov_Weather_Forecast_Model_2022-10-16.jpg)
+![alt Markov Weather Forecast Model](./Image/Markov_Weather_Forecast_Model_2022-10-16.jpeg)
 
 * 脚本文件 (Script File) :
 
